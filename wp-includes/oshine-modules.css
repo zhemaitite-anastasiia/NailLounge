@@ -3826,7 +3826,8 @@
               Menu Card
   *********************************************************************/
   .menu-card-item-info {
-      padding-right: 45px;
+      padding-right: 105px;
+      text-align: left;
   }
   .menu-card-item {
       position: relative;
