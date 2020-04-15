@@ -4,7 +4,7 @@
  * Plugin Name: Resize Image to Parent Container
  *
  * Author: Christian Varga
- * Author URI: http://christianvarga.com
+ * Author URI: https://christianvarga.com
  * Plugin Source: https://github.com/levymetal/jquery-resize-image-to-parent/
  *
  */
@@ -71,7 +71,7 @@
         var obj = $(this);
    
         // hack to force ie to run the load function... ridiculous bug 
-        // http://stackoverflow.com/questions/7137737/ie9-problems-with-jquery-load-event-not-firing
+        // https://stackoverflow.com/questions/7137737/ie9-problems-with-jquery-load-event-not-firing
         obj.attr("src", obj.attr("src"));
    
         // bind to load of image

@@ -26,7 +26,7 @@
 /**
  * jQuery Unveil
  * A very lightweight jQuery plugin to lazy load images
- * http://luis-almeida.github.com/unveil
+ * https://luis-almeida.github.com/unveil
  *
  * Licensed under the MIT license.
  * Copyright 2013 LuÃ­s Almeida
@@ -85,7 +85,7 @@
 
 ;(function($,sr) {
  // debouncing function from John Hann
- // http://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
+ // https://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
  var debounce = function (func, threshold, execAsap) {
     var timeout;
      return function debounced () {
@@ -114,7 +114,7 @@
 	/**
    * Copyright 2012, Digital Fusion
    * Licensed under the MIT license.
-   * http://teamdf.com/jquery-plugins/license/
+   * https://teamdf.com/jquery-plugins/license/
    *
    * @author Sam Sehnert
    * @desc A small plugin that checks whether elements are within
