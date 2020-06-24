@@ -261,7 +261,7 @@
   **********************************************************************/
   
   .oshine-module {
-    margin-bottom: 60px;
+    /* margin-bottom: 60px; */
   }
   
   .oshine_diamond {
@@ -3835,7 +3835,7 @@
       border-bottom-width: 1px;
       border-style: solid;
       border-color: inherit;
-      padding: 15px 10px;
+      padding: 25px 25px;
       margin-bottom: 0px;
   }
   .menu-card-title {
